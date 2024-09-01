@@ -1,2 +1,2 @@
-# Progama-WEB
+# Progamação-WEB
 Curso de HTML-CSS
